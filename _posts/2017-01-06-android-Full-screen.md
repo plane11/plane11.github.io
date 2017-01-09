@@ -1,3 +1,5 @@
+
+~~~ java
 public class SampleActivity extends Activity {
 
     @Override
@@ -9,3 +11,4 @@ public class SampleActivity extends Activity {
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
     }
 }
+~~~
